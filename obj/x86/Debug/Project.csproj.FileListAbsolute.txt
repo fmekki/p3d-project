@@ -1,0 +1,7 @@
+C:\Users\fmek\Documents\programming for 3d\bin\Debug\Tutorial.exe.config
+C:\Users\fmek\Documents\programming for 3d\obj\x86\Debug\Tutorial.exe
+C:\Users\fmek\Documents\programming for 3d\obj\x86\Debug\Tutorial.pdb
+C:\Users\fmek\Documents\programming for 3d\bin\Debug\Tutorial.exe
+C:\Users\fmek\Documents\programming for 3d\bin\Debug\Tutorial.pdb
+C:\Users\fmek\Documents\programming for 3d\bin\Debug\Mogre.xml
+C:\Users\fmek\Documents\programming for 3d\obj\x86\Debug\ResolveAssemblyReference.cache

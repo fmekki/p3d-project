@@ -1,0 +1,297 @@
+material Color_D04
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.898039 0.6 1
+			diffuse 1 0.898039 0.6 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_009
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_009
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_A16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.4 0 0 1
+			diffuse 0.4 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_B01
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.247059 0 1
+			diffuse 1 0.247059 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material 01-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_C01
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.498039 0 1
+			diffuse 1 0.498039 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material skp_front_default
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_B06
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.2 0 1
+			diffuse 0.8 0.2 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_000
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_009
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_A16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.4 0 0 1
+			diffuse 0.4 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_B01
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.247059 0 1
+			diffuse 1 0.247059 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_I11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0.6 1
+			diffuse 0 0 0.6 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material 02-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material skp_front_default
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_A06
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0 0 1
+			diffuse 0.8 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Material2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.376471 0.0705882 0 1
+			diffuse 0.376471 0.0705882 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}

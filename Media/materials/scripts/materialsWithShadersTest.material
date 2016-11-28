@@ -1,0 +1,34 @@
+vertex_program vertextTest hlsl
+{
+	source vertexShaderTest.hlsl
+	entry_point main
+	target vs_1_1
+}
+
+material waterAnimated
+{
+	technique
+	{
+		pass
+		{
+			vertex_program_ref vertextTest
+			{
+				param_named_auto viewProj worldviewproj_matrix
+				param_named_auto time time
+			}
+			
+			
+			//cull_hardware none
+			texture_unit
+			
+			{
+				
+				texture water.jpg
+				scale 0.01 0.001
+				scroll_anim 0.15 0
+				
+			}
+
+		}
+	}
+}

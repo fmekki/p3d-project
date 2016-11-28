@@ -1,0 +1,13 @@
+\\smbhome.uscs.susx.ac.uk\fm231\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\fm231\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\obj\x86\Debug\ResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\fm231\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\fm231\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\fm231\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\fm231\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\fm231\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\obj\x86\Debug\Tutorial.pdb
+C:\Users\fmek\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\bin\Debug\Tutorial.exe.config
+C:\Users\fmek\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\bin\Debug\Tutorial.exe
+C:\Users\fmek\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\bin\Debug\Tutorial.pdb
+C:\Users\fmek\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fmek\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\obj\x86\Debug\Tutorial.exe
+C:\Users\fmek\Documents\programming for 3d\Mogre.TutorialFramework-CS-2010\obj\x86\Debug\Tutorial.pdb

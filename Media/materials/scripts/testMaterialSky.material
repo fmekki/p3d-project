@@ -1,0 +1,23 @@
+material testMaterialSky
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			lighting off
+			depth_write on
+			
+			
+			texture_unit
+			{
+				
+				texture clouds.jpg
+				scroll_anim 0.15 0
+				
+			}
+
+		}
+	}
+}

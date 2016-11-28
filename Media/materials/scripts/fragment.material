@@ -1,0 +1,23 @@
+fragment_program fragmentTest hlsl	
+{
+	source pixelShaderTest.hlsl
+	entry_point main
+	target ps_2_0
+}
+material fragmentMaterial
+{
+	technique
+	{
+		pass
+		{
+			fragment_program_ref fragmentTest
+			{
+			}
+			
+			texture_unit
+			{
+			}
+
+		}
+	}
+}

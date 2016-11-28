@@ -1,0 +1,112 @@
+material wallTexture
+{
+	technique
+	{
+		pass
+		{
+			
+			cull_hardware none
+			texture_unit
+			{
+				texture wall.jpg
+			}
+		}
+	}
+}
+material waterWallTexture
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			cull_hardware none
+			texture_unit
+			{
+				texture wall2.jpg
+			}
+		}
+	}
+}
+material boxTexture
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			cull_hardware none
+			texture_unit
+			{
+				texture 10points.png
+			}
+		}
+	}
+}
+material healthBoxTexture
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			cull_hardware none
+			texture_unit
+			{
+				texture health.jpg
+			}
+		}
+	}
+}
+material ammoBoxTexture
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			cull_hardware none
+			texture_unit
+			{
+				texture ammo.jpg
+			}
+		}
+	}
+}
+
+material Red
+{
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			//lighting    off
+			scene_blend alpha_blend
+			depth_check off
+			
+
+			texture_unit
+			{
+				texture red.png
+				alpha_op_ex source1 src_manual src_current 0.5
+			}
+		}
+	}
+}
+material ground
+{
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			texture_unit
+			{
+				texture tex3.png
+			}
+
+			
+		}
+	}
+}

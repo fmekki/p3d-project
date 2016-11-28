@@ -1,0 +1,84 @@
+Overlay
+{
+	container Panel(Background)
+	{
+	material		Red
+	metrics_mode	pixels
+	top				10
+	left			10
+	width			450
+	height			5
+	
+
+	element Panel(BG)
+	{
+		material		HUD
+		metrics_mode	pixels
+		top				-10
+		left			-10
+		width			800
+		height			95
+	}
+	element TextArea(ScoreOverlay)
+	{
+		metrics_mode pixels
+		left		380
+		top			25
+		font_name	BlueHighway
+		char_height	50
+		alignment	center
+		colour		1 1 0
+	}
+	element TextArea(NoAmmo)
+	{
+		metrics_mode pixels
+		left		400
+		top			200
+		font_name	BlueHighway
+		char_height	50
+		alignment	center
+		colour		1 1 0
+	}
+	element TextArea(AmmoOverlay)
+	{
+		metrics_mode pixels
+		left		55
+		top			20
+		font_name	BlueHighway
+		char_height	50
+		alignment	center
+		colour		1 1 0
+	}
+	element TextArea(HealthOverlay)
+	{
+		metrics_mode pixels
+		left		720
+		top			27
+		font_name	BlueHighway
+		char_height	30
+		alignment	center
+		colour		1 1 0
+	}
+	element TextArea(LevelOverlay)
+	{
+		metrics_mode pixels
+		left		215
+		top			60
+		font_name	BlueHighway
+		char_height	30
+		alignment	Left
+		colour		1 1 0
+	}
+	
+	element TextArea(GameOver)
+	{
+		metrics_mode pixels
+		left		400
+		top			300
+		font_name	BlueHighway
+		char_height	50
+		alignment	center
+		colour		1 0 0
+	}
+	
+}

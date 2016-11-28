@@ -1,0 +1,168 @@
+material Color_D02
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.8 0.196078 1
+			diffuse 1 0.8 0.196078 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material black
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Material5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.356863 0.211765 0.0705882 1
+			diffuse 0.356863 0.211765 0.0705882 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_C07
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.478431 0.156863 1
+			diffuse 0.8 0.478431 0.156863 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Material2
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture crash_bandicoot_crash_bandicoot-s250x304-24499-580.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material skp_front_default
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_I17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0784314 0.0784314 0.4 1
+			diffuse 0.0784314 0.0784314 0.4 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_I07
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.156863 0.156863 0.8 1
+			diffuse 0.156863 0.156863 0.8 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_B01
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.247059 0 1
+			diffuse 1 0.247059 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Color_B01
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.247059 0 1
+			diffuse 1 0.247059 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}

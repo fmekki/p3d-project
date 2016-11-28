@@ -1,0 +1,31 @@
+material testMaterial1
+{
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			texture_unit
+			{
+				texture tex3.png
+			}
+
+			
+		}
+	}
+}
+material Examples/DarkMaterial1
+{
+	technique
+	{
+		pass
+		{
+			
+			cull_hardware none
+			texture_unit
+			{
+				texture clouds.jpg
+			}
+		}
+	}
+}

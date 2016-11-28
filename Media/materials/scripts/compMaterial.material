@@ -1,0 +1,25 @@
+fragment_program fragmentTest hlsl	
+{
+	source pixelShaderTest.hlsl
+	entry_point main
+	target ps_2_0
+}
+material compMaterial
+{
+	technique
+	{
+		pass
+		{
+			fragment_program_ref fragmentTest
+			{
+				param_named_auto viewProj worldviewproj_matrix
+				param_named_auto time time
+			}
+			cull_hardware none
+			texture_unit
+			{
+				texture water.jpg
+			}
+		}
+	}
+}

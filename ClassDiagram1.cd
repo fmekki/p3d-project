@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mogre.Tutorials.Cannon">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAIBAAAAAAAAAAAAIEAgAAAAEAIggQ=</HashCode>
+      <FileName>Cannon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Cube">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASAABAAEAMBAAwAoAQJAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Cube.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Enemy">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAACAAABAAEMRADMAMAAgABEACAAAgBiAQEAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Environment">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASAIAgAEAIZAAAAIAQAAAAAAAgAAAAiQAIgAE=</HashCode>
+      <FileName>Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Game">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ISzEgFgQAGIEAwCABBIaCiAIkgSgJQsBAIzkhNRAAII=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Ground">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAEAAAAAAAAAIABAAQAAEQAEAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Ground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.HUD">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAQAgCAAKAAAAAABAAAAAAAAAQAAoggRACAJI=</HashCode>
+      <FileName>hud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Player">
+    <Position X="11" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAJAAAAAIBAAAAIQEEAAAAAAAAwAAkAAEAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Projectile">
+    <Position X="7.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBQAECAAABAJAAcBAAAAIAAAAAAAAIBAoAAAAAAAAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Robot">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACAACAAAAIgAAIAIAAAAAEAIAAggBgAQBADAA=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mogre.Tutorials.Wall">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAACAIAAAEAMRAAAAMAQAAAAAAAgAgAAiQCIgAE=</HashCode>
+      <FileName>wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.Contacts">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicsEngine\Contacts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.ElasticForce" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAIAABAAAAAABAAAAAAAEEgAABEABAABA=</HashCode>
+      <FileName>PhysicsEngine\ElasticForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.Force" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAgAAAAAAAAAAAAAADAAAAAAAAAABAAAA=</HashCode>
+      <FileName>PhysicsEngine\Force.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.FrictionForce" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIIAAAAAAAAgAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>PhysicsEngine\FrictionForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.Physics">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAACAAAAAFAAEAAAAAKAAAAAAIIQAABAAAQg=</HashCode>
+      <FileName>PhysicsEngine\Physics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.PhysObj">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIBBAICAAAhhAgACIAN4AAABEAQARAEEQEEFAEEgQ=</HashCode>
+      <FileName>PhysicsEngine\PhysObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEng.WeightForce" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+      <FileName>PhysicsEngine\WeightForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
